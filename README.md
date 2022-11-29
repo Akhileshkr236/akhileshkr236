@@ -1,12 +1,9 @@
 <h1 align="center">Hi 👋, I'm Akhilesh Kumar</h1>
 <h3>Hey! I'm Akhilesh, a UI developer, who strives to develop efficient frontend solutions and design beautiful & user-friendly user interfaces. This is my home on the web where I post my thoughts and showcase my work and a bit about myself. For the Frontend, I mostly use Angular with git as the version control system. For the Backend, I work best with node.js. For the Database, I work best with MySQL, currently learning MongoDB also.</h3>
 
-<img align="right" alt="coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/d5dccb5d5818cba2c8fa0cb15fb578b3.gif" />
-
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/d5dccb5d5818cba2c8fa0cb15fb578b3.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akhileshkr236&label=Profile%20views&color=0e75b6&style=flat" alt="akhileshkr236" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akhileshkr236" alt="akhileshkr236" /></a> </p>
 
 - 🔭 I’m currently working on [Webhance](https://webhance-dev-v2.web.app/)
 
