@@ -1,4 +1,4 @@
-[![MasterHead](https://indoanalytica.com/static/images/bannerr.gif)](https://akhileshkr236.io)
+[![MasterHead](https://indoanalytica.com/static/images/bannerr.gif)](https://akhileshkr236.github.io/myportfolio)
 <h1 align="center" height="300px">Hi 👋, I'm Akhilesh Kumar</h1>
 <h3>Hey! I'm Akhilesh, a UI developer, who strives to develop efficient frontend solutions and design beautiful & user-friendly user interfaces. This is my home on the web where I post my thoughts and showcase my work and a bit about myself. For the Frontend, I mostly use Angular with git as the version control system. For the Backend, I work best with node.js. For the Database, I work best with MySQL, currently learning MongoDB also.</h3>
 
